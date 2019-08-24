@@ -1,0 +1,36 @@
+[
+  {
+    "value": "awesome",
+    "synonyms": [
+      "awesome",
+      "best",
+      "better",
+      "good",
+      "nice"
+    ]
+  },
+  {
+    "value": "different",
+    "synonyms": [
+      "difference",
+      "different"
+    ]
+  },
+  {
+    "value": "trust",
+    "synonyms": [
+      "belief",
+      "believe",
+      "rely",
+      "trust"
+    ]
+  },
+  {
+    "value": "unique",
+    "synonyms": [
+      "special",
+      "unique",
+      "uniqueness"
+    ]
+  }
+]

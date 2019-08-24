@@ -1,0 +1,9 @@
+{
+  "id": "0f598da8-2b11-41d6-89e6-4e58271115e2",
+  "name": "competitors",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

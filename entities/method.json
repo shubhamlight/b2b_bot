@@ -1,0 +1,9 @@
+{
+  "id": "99531099-501b-4bde-bc68-0b82f4be2011",
+  "name": "method",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

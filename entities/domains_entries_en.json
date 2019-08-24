@@ -1,0 +1,64 @@
+[
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "each",
+      "every",
+      "many",
+      "most of"
+    ]
+  },
+  {
+    "value": "domain",
+    "synonyms": [
+      "domain",
+      "field"
+    ]
+  },
+  {
+    "value": "healthcare",
+    "synonyms": [
+      "health",
+      "healthcare",
+      "medical",
+      "medical care",
+      "medicines"
+    ]
+  },
+  {
+    "value": "mobile apps",
+    "synonyms": [
+      "app",
+      "applications",
+      "mobile",
+      "mobile app",
+      "mobile applications",
+      "mobile apps"
+    ]
+  },
+  {
+    "value": "products",
+    "synonyms": [
+      "prod.",
+      "product",
+      "products",
+      "tech products"
+    ]
+  },
+  {
+    "value": "services",
+    "synonyms": [
+      "service",
+      "services"
+    ]
+  },
+  {
+    "value": "technical",
+    "synonyms": [
+      "tech",
+      "technical",
+      "technology"
+    ]
+  }
+]

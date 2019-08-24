@@ -1,0 +1,40 @@
+[
+  {
+    "value": "competitor",
+    "synonyms": [
+      "competitor"
+    ]
+  },
+  {
+    "value": "fiverr",
+    "synonyms": [
+      "fiverr"
+    ]
+  },
+  {
+    "value": "freelancer",
+    "synonyms": [
+      "freelancer"
+    ]
+  },
+  {
+    "value": "powtoon",
+    "synonyms": [
+      "powtoon"
+    ]
+  },
+  {
+    "value": "production house",
+    "synonyms": [
+      "production house",
+      "video prod house",
+      "video production house"
+    ]
+  },
+  {
+    "value": "upwork",
+    "synonyms": [
+      "upwork"
+    ]
+  }
+]

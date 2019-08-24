@@ -1,0 +1,52 @@
+[
+  {
+    "value": "follow",
+    "synonyms": [
+      "follow"
+    ]
+  },
+  {
+    "value": "levels",
+    "synonyms": [
+      "level",
+      "levels"
+    ]
+  },
+  {
+    "value": "make",
+    "synonyms": [
+      "created",
+      "designed",
+      "forged",
+      "made",
+      "make",
+      "shaped"
+    ]
+  },
+  {
+    "value": "method",
+    "synonyms": [
+      "method",
+      "way"
+    ]
+  },
+  {
+    "value": "pedagogy",
+    "synonyms": [
+      "pedagogy"
+    ]
+  },
+  {
+    "value": "process",
+    "synonyms": [
+      "process"
+    ]
+  },
+  {
+    "value": "steps",
+    "synonyms": [
+      "step",
+      "steps"
+    ]
+  }
+]

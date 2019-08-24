@@ -1,0 +1,64 @@
+[
+  {
+    "value": "company",
+    "synonyms": [
+      "companies",
+      "company"
+    ]
+  },
+  {
+    "value": "corporates",
+    "synonyms": [
+      "corporates",
+      "corporations"
+    ]
+  },
+  {
+    "value": "fortune 500",
+    "synonyms": [
+      "fortune 500",
+      "fortune 500 companies"
+    ]
+  },
+  {
+    "value": "ngo",
+    "synonyms": [
+      "ngo",
+      "non government organization",
+      "non govt org",
+      "non govt. organization",
+      "non profitable org",
+      "non profitable organisation",
+      "npo"
+    ]
+  },
+  {
+    "value": "smb",
+    "synonyms": [
+      "small \u0026 medium entreprises",
+      "small and medium business",
+      "small and medium businesses",
+      "small and medium entreprises",
+      "smb",
+      "sme"
+    ]
+  },
+  {
+    "value": "startup",
+    "synonyms": [
+      "start-up",
+      "startps",
+      "startup",
+      "startups"
+    ]
+  },
+  {
+    "value": "technology",
+    "synonyms": [
+      "tech",
+      "tech.",
+      "technology",
+      "techonolgy"
+    ]
+  }
+]

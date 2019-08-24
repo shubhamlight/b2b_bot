@@ -1,0 +1,46 @@
+[
+  {
+    "value": "budget",
+    "synonyms": [
+      "budget"
+    ]
+  },
+  {
+    "value": "company name",
+    "synonyms": [
+      "company name",
+      "organization name"
+    ]
+  },
+  {
+    "value": "email Id",
+    "synonyms": [
+      "email Id",
+      "email address",
+      "mail address",
+      "mail id"
+    ]
+  },
+  {
+    "value": "name",
+    "synonyms": [
+      "first name",
+      "full name",
+      "last name",
+      "name"
+    ]
+  },
+  {
+    "value": "phone no",
+    "synonyms": [
+      "phone no",
+      "phone number"
+    ]
+  },
+  {
+    "value": "what do you want from video?",
+    "synonyms": [
+      "what do you want from video?"
+    ]
+  }
+]

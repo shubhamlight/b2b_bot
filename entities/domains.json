@@ -1,0 +1,9 @@
+{
+  "id": "1afc92e0-e3f6-4e02-95c4-ebd52e3af9bd",
+  "name": "domains",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

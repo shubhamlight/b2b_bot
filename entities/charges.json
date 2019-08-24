@@ -1,0 +1,9 @@
+{
+  "id": "699ab249-5a8a-471b-944c-c2d8fce9e18f",
+  "name": "charges",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

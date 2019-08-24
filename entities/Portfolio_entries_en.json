@@ -1,0 +1,45 @@
+[
+  {
+    "value": "done",
+    "synonyms": [
+      "completed",
+      "done"
+    ]
+  },
+  {
+    "value": "made",
+    "synonyms": [
+      "made",
+      "make"
+    ]
+  },
+  {
+    "value": "portfolio",
+    "synonyms": [
+      "folio",
+      "portfolio"
+    ]
+  },
+  {
+    "value": "show",
+    "synonyms": [
+      "display",
+      "look",
+      "preview",
+      "see",
+      "show"
+    ]
+  },
+  {
+    "value": "video",
+    "synonyms": [
+      "video"
+    ]
+  },
+  {
+    "value": "work",
+    "synonyms": [
+      "work"
+    ]
+  }
+]

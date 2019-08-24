@@ -1,0 +1,19 @@
+[
+  {
+    "value": "budget",
+    "synonyms": [
+      "budget"
+    ]
+  },
+  {
+    "value": "charge",
+    "synonyms": [
+      "charge",
+      "donation",
+      "fees",
+      "price",
+      "pricing",
+      "remuneration"
+    ]
+  }
+]

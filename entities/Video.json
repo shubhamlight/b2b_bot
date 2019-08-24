@@ -1,0 +1,9 @@
+{
+  "id": "ba567ebd-22d5-4dbc-91aa-53089b8946e3",
+  "name": "Video",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
