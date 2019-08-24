@@ -1,0 +1,498 @@
+[
+  {
+    "id": "2c8d2f64-564f-4f80-b531-ba93e15f6a39",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "different",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " in you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bca53bd9-4cc3-441e-b2ac-5dfac534e6b6",
+    "data": [
+      {
+        "text": "how are you ",
+        "userDefined": false
+      },
+      {
+        "text": "better",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " from fiver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b45ae346-81bd-483f-bb9c-a1c8114ed3bf",
+    "data": [
+      {
+        "text": "why your ",
+        "userDefined": false
+      },
+      {
+        "text": "charges",
+        "alias": "charges",
+        "meta": "@charges",
+        "userDefined": false
+      },
+      {
+        "text": " are so high",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c7c39ec-ff32-49a7-89d9-d1afb4f74b8a",
+    "data": [
+      {
+        "text": "how are you ",
+        "userDefined": false
+      },
+      {
+        "text": "better",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " from you ",
+        "userDefined": false
+      },
+      {
+        "text": "competitors",
+        "alias": "competitors",
+        "meta": "@competitors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c906bbe0-16cc-4bdf-ba49-e98b5bf4367b",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "make",
+        "alias": "Portfolio",
+        "meta": "@Portfolio",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "awesome",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "alias": "Portfolio1",
+        "meta": "@Portfolio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84fdb311-4d36-4eb9-a70e-ba68118d6b5b",
+    "data": [
+      {
+        "text": "we dont ",
+        "userDefined": false
+      },
+      {
+        "text": "trust",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd0c5a28-e629-4b51-8173-7f7853936bc3",
+    "data": [
+      {
+        "text": "are you the ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31c1fed5-9722-456e-a99b-0e30b0ba5639",
+    "data": [
+      {
+        "text": "is there any guranteed return",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "126d5293-6b42-475f-9322-fbfeb3ca0389",
+    "data": [
+      {
+        "text": "are not you same like other ",
+        "userDefined": false
+      },
+      {
+        "text": "video production house",
+        "alias": "competitors",
+        "meta": "@competitors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63c77c7f-ebef-43c6-a593-59edde67589b",
+    "data": [
+      {
+        "text": "arenot you same like ",
+        "userDefined": false
+      },
+      {
+        "text": "freelancer",
+        "alias": "competitors",
+        "meta": "@competitors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c44319f-b841-4a12-9164-4948a90589e5",
+    "data": [
+      {
+        "text": "are not you same like ",
+        "userDefined": false
+      },
+      {
+        "text": "fiverr",
+        "alias": "competitors",
+        "meta": "@competitors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef2ea4fd-17c6-472a-a557-81eab6427768",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "unique",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " in your ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "alias": "Video",
+        "meta": "@Video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a8daf68-5f66-43a8-86df-1524e0f16334",
+    "data": [
+      {
+        "text": "how your ",
+        "userDefined": false
+      },
+      {
+        "text": "charges",
+        "alias": "charges",
+        "meta": "@charges",
+        "userDefined": false
+      },
+      {
+        "text": " are justified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74775e4d-46e7-4edb-a5fd-63a05c759bac",
+    "data": [
+      {
+        "text": "your ",
+        "userDefined": false
+      },
+      {
+        "text": "charges",
+        "alias": "charges",
+        "meta": "@charges",
+        "userDefined": false
+      },
+      {
+        "text": " are high",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9ce4195-fcd2-4d8b-8bda-a9b23a4fc326",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "Portfolio",
+        "meta": "@Portfolio",
+        "userDefined": false
+      },
+      {
+        "text": " you ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "alias": "Portfolio1",
+        "meta": "@Portfolio",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "different",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb82c944-fa28-4146-a78e-6be95f13359b",
+    "data": [
+      {
+        "text": "how are you ",
+        "userDefined": false
+      },
+      {
+        "text": "unique",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b86b354b-f268-40ac-a45e-d8048c011b76",
+    "data": [
+      {
+        "text": "are you unique",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b0022ae-1f2f-4951-b414-cf4b3331d616",
+    "data": [
+      {
+        "text": "can we ",
+        "userDefined": false
+      },
+      {
+        "text": "trust",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7843cf3d-5911-4aac-9952-7321049d5187",
+    "data": [
+      {
+        "text": "is there ",
+        "userDefined": false
+      },
+      {
+        "text": "anything",
+        "alias": "Video",
+        "meta": "@Video",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "unique",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " in you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad0ea83c-ddcd-4d0c-8ba2-81f9d053d936",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "make",
+        "alias": "Portfolio",
+        "meta": "@Portfolio",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "video",
+        "alias": "Portfolio1",
+        "meta": "@Portfolio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbd2766d-75ea-4fe7-b77c-4df31ac53238",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "different",
+        "alias": "uniqueness",
+        "meta": "@uniqueness",
+        "userDefined": false
+      },
+      {
+        "text": " you are",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

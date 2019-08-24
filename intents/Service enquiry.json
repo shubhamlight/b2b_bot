@@ -1,0 +1,76 @@
+{
+  "id": "5f7c9cfa-1caa-46cf-b552-5393376dc6b2",
+  "name": "Service enquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "service_demand",
+      "affectedContexts": [
+        {
+          "name": "Services",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Serviceenquiry-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4cd7cc49-eaf7-4b2a-8cef-92bd23694139",
+          "required": false,
+          "dataType": "@Video",
+          "name": "Video",
+          "value": "$Video",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6f25f62d-5f06-4fcd-82a3-bb0eae5f1e80",
+          "required": false,
+          "dataType": "@Video",
+          "name": "Video1",
+          "value": "$Video1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f2a396b0-c439-4ad6-acb3-d9fc7068301b",
+          "required": false,
+          "dataType": "@Video",
+          "name": "services",
+          "value": "$services",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We make all type of animated videos, explainer videos whiteboard videos, 2d videos, 3d videos, etc.\nAre you looking for anything specific?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4fc46d69-a362-4ccb-b501-7b82841eb21c",
+  "parentId": "df39465e-c985-43cd-8306-619e28d6f7d5",
+  "rootParentId": "4379e949-7773-4bee-8841-f525df59c088",
+  "name": "Default Welcome Intent - no - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-no-followup",
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes",
+      "affectedContexts": [
+        {
+          "name": "show_portfolio",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "defaultwelcomeintent-no-yes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We have made some awesome videos for our clients.\n Have a look at our diverse proven portfolio  \u003ca href\u003d/\"https://blisstrovideos.com/portfolio/\"\u003eClick here\u003c/a\u003e\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

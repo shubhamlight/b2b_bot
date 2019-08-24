@@ -1,0 +1,39 @@
+{
+  "id": "df39465e-c985-43cd-8306-619e28d6f7d5",
+  "parentId": "4379e949-7773-4bee-8841-f525df59c088",
+  "rootParentId": "4379e949-7773-4bee-8841-f525df59c088",
+  "name": "Default Welcome Intent - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup",
+    "Welcome"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure, would like to have a look at portfolio?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

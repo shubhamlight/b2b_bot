@@ -1,0 +1,100 @@
+{
+  "id": "36e2612b-d048-40a9-825d-e261698c5121",
+  "name": "Trust building",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8ad20227-17dd-4643-8418-60b1ac75fb0f",
+          "required": false,
+          "dataType": "@uniqueness",
+          "name": "uniqueness",
+          "value": "$uniqueness",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8696c09a-9a0c-45cc-b958-4f06574356d9",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio",
+          "value": "$Portfolio",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a4f671de-e4fa-40d4-82da-af98f155cc66",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio1",
+          "value": "$Portfolio1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "51ef26d8-185b-40be-a24b-f07a97e6694d",
+          "required": false,
+          "dataType": "@Video",
+          "name": "Video",
+          "value": "$Video",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "cd77e1f1-3348-49a6-a18a-aba0bbe9648f",
+          "required": false,
+          "dataType": "@charges",
+          "name": "charges",
+          "value": "$charges",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d2f86691-d8ba-4aa8-9328-db1bdf006ea5",
+          "required": false,
+          "dataType": "@competitors",
+          "name": "competitors",
+          "value": "$competitors",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Blisstro- Name is enough! We made videos for Khaitan Fans"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

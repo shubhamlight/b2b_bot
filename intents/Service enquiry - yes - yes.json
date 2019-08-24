@@ -1,0 +1,39 @@
+{
+  "id": "6a258d8f-13c8-46f8-96fc-ce0071bd6ed1",
+  "parentId": "a469bcdc-2e42-4f94-878d-76fe9fab44d5",
+  "rootParentId": "5f7c9cfa-1caa-46cf-b552-5393376dc6b2",
+  "name": "Service enquiry - yes - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup",
+    "Serviceenquiry-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-followup",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please tell us your name"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

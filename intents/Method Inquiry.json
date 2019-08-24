@@ -1,0 +1,94 @@
+{
+  "id": "24d090a5-256f-4d5a-92ff-86af0fd5d7b5",
+  "name": "Method Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Explain_working",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ef836509-79e3-4bbe-9724-c034ba12843a",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio",
+          "value": "$Portfolio",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5ae309fa-3ce9-41ad-91bf-ac979b4204b6",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio1",
+          "value": "$Portfolio1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5f3e09dc-a681-4bf4-b79d-28beab47fe35",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio2",
+          "value": "$Portfolio2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2476948e-abac-409c-811a-f12890edf5fc",
+          "required": false,
+          "dataType": "@method",
+          "name": "method",
+          "value": "$method",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7b0c722a-c8ea-4551-aad5-d5c3d5e9c97a",
+          "required": false,
+          "dataType": "@method",
+          "name": "method1",
+          "value": "$method1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Our special 5-step process is great as well as a very efficient way to achieve whatever you want to say through our animated videos. \u003cbr /\u003e\n1. UNDERSTANDING \u003cbr /\u003e\n2. SCRIPTING \u003cbr /\u003e\n3. STORYBOARDING \u003cbr /\u003e\n4. VOCALS \u003cbr /\u003e\n5. ANIMATION \u0026 SOUND \u003cbr /\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

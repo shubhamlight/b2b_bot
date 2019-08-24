@@ -1,0 +1,95 @@
+{
+  "id": "b763208c-2ecf-4e3a-87e4-7fb58bdfe661",
+  "name": "Portfolio Inquiry",
+  "auto": true,
+  "contexts": [
+    "asking_portfolio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Inquiry",
+      "affectedContexts": [
+        {
+          "name": "show_portfolio",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "asking_portfolio",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "PortfolioInquiry-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fa8e7243-92d1-416f-811a-1aa41ef63bca",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio",
+          "value": "$Portfolio",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "12bc989d-8089-42d1-ae4d-132efc934566",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio1",
+          "value": "$Portfolio1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "be38ecbe-39f2-41a7-ab77-4ab7eac48d18",
+          "required": false,
+          "dataType": "@Portfolio",
+          "name": "Portfolio11",
+          "value": "$Portfolio11",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6ca4e9a4-009a-4367-97a1-cced84de1eb8",
+          "required": false,
+          "dataType": "@Video",
+          "name": "Video",
+          "value": "$Video",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes,we have made some awesome videos for our clients.\n Have a look at our diverse proven portfolio  \u003ca href\u003d/\"https://blisstrovideos.com/portfolio/\"\u003eClick here\u003c/a\u003e\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

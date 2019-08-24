@@ -1,0 +1,118 @@
+{
+  "id": "271fa791-61e4-4351-b774-d3b53985831e",
+  "parentId": "dcf9db54-9856-48f6-956e-b88d8b821d63",
+  "rootParentId": "4379e949-7773-4bee-8841-f525df59c088",
+  "name": "Default Welcome Intent - yes - custom",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup",
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "dwi-details-yes-fetching",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a2246cad-7956-4146-8bae-4cc239ebcd07",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "4ae1bcdf-b23c-4dc2-8484-87954e4083fd",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell your email. We don\u0027t spam our clients."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "1dd9a486-b315-4f61-96cf-6cbf2fd5ce5a",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell your contact no."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "f3893197-dd25-4d79-84e5-315f9d8d6847",
+          "required": false,
+          "dataType": "@user_details",
+          "name": "user_details",
+          "value": "$user_details",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7c90238c-f4f5-42d2-9735-381ed75fca10",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thanks for details. Our Video Success Manager will contact you soon.\nPlease ask other queries, if any. Happy to chat! :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

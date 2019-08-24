@@ -1,0 +1,39 @@
+{
+  "id": "076a7622-b859-4a41-affb-05c10741b5fe",
+  "parentId": "5f7c9cfa-1caa-46cf-b552-5393376dc6b2",
+  "rootParentId": "5f7c9cfa-1caa-46cf-b552-5393376dc6b2",
+  "name": "Service enquiry - no",
+  "auto": true,
+  "contexts": [
+    "Services",
+    "Serviceenquiry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Serviceenquiry.Serviceenquiry-no",
+      "affectedContexts": [
+        {
+          "name": "show_portfolio",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please have a look at our diverse proven portfolio  \u003ca href\u003d/\"https://blisstrovideos.com/portfolio/\"\u003eClick here\u003c/a\u003e\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

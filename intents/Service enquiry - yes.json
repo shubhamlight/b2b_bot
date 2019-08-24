@@ -1,0 +1,44 @@
+{
+  "id": "a469bcdc-2e42-4f94-878d-76fe9fab44d5",
+  "parentId": "5f7c9cfa-1caa-46cf-b552-5393376dc6b2",
+  "rootParentId": "5f7c9cfa-1caa-46cf-b552-5393376dc6b2",
+  "name": "Service enquiry - yes",
+  "auto": true,
+  "contexts": [
+    "Services",
+    "Serviceenquiry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Serviceenquiry.Serviceenquiry-yes",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Serviceenquiry-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can you please provide your basic details? Our video success manager will contact you soon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

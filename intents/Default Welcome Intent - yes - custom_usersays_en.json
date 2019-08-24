@@ -1,0 +1,748 @@
+[
+  {
+    "id": "5c650c80-8c7b-4521-a7ad-dd2196545462",
+    "data": [
+      {
+        "text": "srijan",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e17f040-9b75-4f09-b158-565f8c8debdd",
+    "data": [
+      {
+        "text": "srijan bhardwaj",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "248bcd74-11dd-4030-8215-a2250475e478",
+    "data": [
+      {
+        "text": "shah",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5e65ffe-44dc-471e-9fa0-40e1bcd57c96",
+    "data": [
+      {
+        "text": "8567943201",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " is the go to no.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3970ece9-568f-4f97-9a8f-88f0ff58eaba",
+    "data": [
+      {
+        "text": "dial up is ",
+        "userDefined": false
+      },
+      {
+        "text": "+91-89742310489",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd8e440d-1230-4f5d-a6d6-0d5d4268c636",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "phone no",
+        "alias": "user_details",
+        "meta": "@user_details",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "7894563210",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e5fa35a-4cdd-43f7-a969-173833e1c055",
+    "data": [
+      {
+        "text": "contact me at ",
+        "userDefined": false
+      },
+      {
+        "text": "9653241780",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0c3f614-0ac1-4cc7-99f7-20eb1b27c993",
+    "data": [
+      {
+        "text": "you can contact me at ",
+        "userDefined": false
+      },
+      {
+        "text": "5647891230",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dff3709-be6f-4bea-9a5e-f35d9555b231",
+    "data": [
+      {
+        "text": "contact ",
+        "userDefined": false
+      },
+      {
+        "text": "8795461230",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a02ecbf3-892f-47df-bf9c-00b98aa82d74",
+    "data": [
+      {
+        "text": "contact no ",
+        "userDefined": false
+      },
+      {
+        "text": "4561230789",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e68a21c6-e157-4a35-a5b5-1efbeaae0051",
+    "data": [
+      {
+        "text": "contact is ",
+        "userDefined": false
+      },
+      {
+        "text": "8794561330",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32810fbe-84c7-4b04-95f8-d7032152ced9",
+    "data": [
+      {
+        "text": "phone is ",
+        "userDefined": false
+      },
+      {
+        "text": "9874561230",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cc55978-44a4-4106-b582-dc77209dbf18",
+    "data": [
+      {
+        "text": "phone no",
+        "alias": "user_details",
+        "meta": "@user_details",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "9000000000",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73c804d4-63f0-428a-b168-d36a5ca77ca3",
+    "data": [
+      {
+        "text": "address is ",
+        "userDefined": false
+      },
+      {
+        "text": "gangulay@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ded8b2b2-b684-42ec-9b3f-dca09f034761",
+    "data": [
+      {
+        "text": "mail address is given by ",
+        "userDefined": false
+      },
+      {
+        "text": "ankita@outlook.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3312a67d-dc58-4ac5-a8c1-9f4cecf27c97",
+    "data": [
+      {
+        "text": "contact me at ",
+        "userDefined": false
+      },
+      {
+        "text": "angela@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd5230dc-3850-4b34-ad9b-791665a2ca7b",
+    "data": [
+      {
+        "text": "you can contact me at  ",
+        "userDefined": false
+      },
+      {
+        "text": "maliakaarora@arbaas.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f1aad9c-577c-4987-9e12-9401fbd5b945",
+    "data": [
+      {
+        "text": "cotact mail is  ",
+        "userDefined": false
+      },
+      {
+        "text": "indianshatepakistan@bjpzindabad.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eab176bd-ce86-420d-af32-4585e6621083",
+    "data": [
+      {
+        "text": "professional id is ",
+        "userDefined": false
+      },
+      {
+        "text": "sue.clock@clickbank.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f135e17f-8cdf-413e-9424-83fb8a866020",
+    "data": [
+      {
+        "text": "mail is ",
+        "userDefined": false
+      },
+      {
+        "text": "drsuresh@mayanagri.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75b8b414-7101-4182-a3ce-254f5c0ef6e1",
+    "data": [
+      {
+        "text": "mail id is ",
+        "userDefined": false
+      },
+      {
+        "text": "support@dialogflow.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9ea194e-ea23-4672-8aaf-d52b7f44fedb",
+    "data": [
+      {
+        "text": "id - ",
+        "userDefined": false
+      },
+      {
+        "text": "watson@casesolver.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "545f623f-a1a8-479d-a655-4e26aaaf54af",
+    "data": [
+      {
+        "text": "james.bond1194@yahoo.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3c1f3b1-79f0-41db-86c2-b1d6107787a2",
+    "data": [
+      {
+        "text": "suresh at gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e53159cc-967a-4b51-9576-886479e439ad",
+    "data": [
+      {
+        "text": "harpreet at the rate paytm.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07f216f7-5bc4-4365-a6b3-0d383704494d",
+    "data": [
+      {
+        "text": "nishkarsh at the rate blisstro dot com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "587143d7-05a2-477f-afe0-53763122fe74",
+    "data": [
+      {
+        "text": "hello@facebook.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f66bef81-7622-436a-9741-fbe569be29d3",
+    "data": [
+      {
+        "text": "id ",
+        "userDefined": false
+      },
+      {
+        "text": "hi@paypal.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e002559-9be4-4790-9ddd-ffffb1bf3413",
+    "data": [
+      {
+        "text": "my email is  ",
+        "userDefined": false
+      },
+      {
+        "text": "ramesh@yandex.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b802ca9a-8bbf-42c4-9d5c-b0d8ccb436c4",
+    "data": [
+      {
+        "text": "email id is ",
+        "userDefined": false
+      },
+      {
+        "text": "srijan@blisstro.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e7f897b-22cb-4bee-8b0b-3693a57d3f58",
+    "data": [
+      {
+        "text": "id is ",
+        "userDefined": false
+      },
+      {
+        "text": "vijay@paytm.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d664b590-ba06-458c-83ee-6269fe4bf1ca",
+    "data": [
+      {
+        "text": "vijay shekhar sharma",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " is my ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a54b3c1-bd11-431a-8215-422e6d0f804f",
+    "data": [
+      {
+        "text": "james",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " it is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42835252-81a3-4d8e-b0ea-a963bbd21b75",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "james bond",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d6d5848-65bb-4ee8-afbc-df0538eb88c9",
+    "data": [
+      {
+        "text": "james",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " this side",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf161a01-5583-4959-85e0-cbb5f06424b8",
+    "data": [
+      {
+        "text": "people call me by ",
+        "userDefined": false
+      },
+      {
+        "text": "Siddhant jw",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ebc59c6-edc6-4b54-9833-8894abec553e",
+    "data": [
+      {
+        "text": "hi I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Harpreet",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ce1caa4-b464-48c6-ab3d-b1dc46433d02",
+    "data": [
+      {
+        "text": "claudia gunslaves",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ac7729b-ed6b-45c2-8c55-5d0879c096a5",
+    "data": [
+      {
+        "text": "anshul sharma",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "720dc6b7-2ef6-4879-8623-15665605efc7",
+    "data": [
+      {
+        "text": "name is ",
+        "userDefined": false
+      },
+      {
+        "text": "nishkarsh",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "679a92be-4315-4054-b3c5-4399f593a691",
+    "data": [
+      {
+        "text": "my email id is ",
+        "userDefined": false
+      },
+      {
+        "text": "srijan.bhardwal@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fc8d4a5-b2ab-454a-9516-e2d634440ad2",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "srijan bhardwaj",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
